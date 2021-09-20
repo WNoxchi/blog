@@ -1,11 +1,17 @@
 ---
 layout: page
-title: About Me
+title: About
 permalink: /about/
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+I'm an engineer with a focus on software and aerospace, and interests in nuclear and materials. I run [Tuloy](https://tuloy.co), a robotics company.
 
+## Education
 
+**Informatics, Aerospace, Nuclear, Materials Science**, Independent Study - 2015 onwards
 
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+**B.A. Political Science**, [Seton Hall University](https://www.shu.edu) – 2012
+
+## CV / Résumé
+
+Here is a [link to my updated résumé](https://drive.google.com/file/d/1wb9t-xc8CPjA64JtjqPIC1f7VyunSNTx/view?usp=sharing).
